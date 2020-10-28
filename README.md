@@ -5,8 +5,8 @@ in The following video, you will find detailed description of the project
 https://www.youtube.com/watch?v=8kyhLZpcikM&t=11s&ab_channel=ReemEslam
 ## Ingredients:
 - Water pump.
-- RGB Leds.
+- RGB led.
 - Sound sensor.
-- Straws.
-- Water packet.
+- Straw.
+- Plastic bucket.
 - Arduino uno.
